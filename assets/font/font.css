@@ -1,0 +1,18 @@
+/* font-------------------------*/
+@font-face {
+  font-family: IranYekan;
+  src: url(../assets/font/IRANYekanWebRegular.woff);
+}
+@font-face {
+  font-family: Vazir;
+  src: url(../assets/font/Vazir.woff);
+}
+/*end font---------------------------------------*/
+
+* {
+  font-family: IranYekan;
+}
+
+.vazir {
+  font-family: Vazir;
+}
